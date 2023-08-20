@@ -11,8 +11,7 @@ YouTube Video Downloader is a simple desktop application that allows you to easi
 ## Getting Started
 
 1. Clone this repository or download the ZIP file.
-2. Install the required packages by running:
-3. Run the application:
+2. Run the application:
 
 MIT License
 
